@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hashini<br>🔭 I’m currently working on building an e-commerce website<br>🤝 I’m looking for an internship in software engineering<br>🌱 I’m currently learning react js, node js<br>👀 I’m interested in IT related technologie<br>
+👋 Hi, I’m Hashini<br>🤝 I’m looking for an internship in software engineering<br>🌱 I’m currently learning mern<br>👀 I’m interested in IT related technologie<br>
 
 
 ## 🌐 Socials:
