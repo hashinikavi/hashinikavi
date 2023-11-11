@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hashini<br>🤝 I’m looking for an internship in software engineering<br>🌱 I’m currently learning mern<br>👀 I’m interested in IT related technologie<br>
+👋 Hi, I’m Hashini<br>🤝 Currently an intern software engineer at Perituza Lanka(Pvt).Ltd<br>🌱 I’m currently learning mern<br>👀 I’m interested in IT related technologie<br>
 
 
 ## 🌐 Socials:
